@@ -1,4 +1,4 @@
-# Opa, me chamo Eduardo Takashi
+# oi, me chamo Eduardo Takashi
 
 - Atualmente estudo ciencias da computação na Universidade Presbiteriana Mackenzie
 
